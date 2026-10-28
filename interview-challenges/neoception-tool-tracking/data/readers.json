@@ -1,0 +1,6 @@
+[
+  { "readerId": "WH-01",   "antenna": 1, "zone": "Warehouse" },
+  { "readerId": "WH-01",   "antenna": 2, "zone": "Warehouse" },
+  { "readerId": "PROD-01", "antenna": 1, "zone": "Production" },
+  { "readerId": "LAB-01",  "antenna": 1, "zone": "CalibrationLab" }
+]
